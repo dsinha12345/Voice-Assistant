@@ -1,0 +1,66 @@
+.chatbotContainer {
+  max-width: 400px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.messages {
+  min-height: 200px;
+  max-height: 300px;
+  overflow-y: auto;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.user {
+  align-self: flex-end;
+  background: #e0f7fa;
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: #000000;
+}
+
+.bot {
+  align-self: flex-start;
+  background: #f1f8e9;
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: #000000;
+}
+
+.inputForm {
+  display: flex;
+  gap: 8px;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* Add at the end of chatbot.module.css */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+.user, .bot {
+  animation: fadeIn 0.3s;
+}
+
+@media (max-width: 500px) {
+  .chatbotContainer {
+    max-width: 98vw;
+    padding: 8px;
+  }
+}
