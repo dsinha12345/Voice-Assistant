@@ -22,7 +22,7 @@ export async function POST(req: NextRequest) {
 
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 20000); // 20 seconds timeout
+    const timeout = setTimeout(() => controller.abort(), 120000); // 20 seconds timeout
 
     const apiRes = await fetch(apiUrl, {
       method: "POST",
