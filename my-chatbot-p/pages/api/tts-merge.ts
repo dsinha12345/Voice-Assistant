@@ -50,8 +50,8 @@ async function generateSpeech(text: string, language: 'en-US' | 'es-US'): Promis
   const client = new TextToSpeechClient(await getGoogleCredentials());
 
   const voiceConfig = language === 'es-US'
-    ? { languageCode: 'es-US', name: 'es-US-Standard-A' }
-    : { languageCode: 'en-US', name: 'en-US-Standard-C' };
+    ? { languageCode: 'es-US', name: 'es-US-Chirp-HD-O' }
+    : { languageCode: 'en-US', name: 'en-US-Chirp-HD-O' };
 
   const request = {
     input: { text },

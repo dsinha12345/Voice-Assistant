@@ -51,8 +51,8 @@ export async function POST(request: Request) {
 
     // Determine the voice based on the language parameter from the frontend
     const voiceConfig = language === 'es-US' 
-      ? { languageCode: 'es-US', name: 'es-US-Standard-A' } // A standard Spanish voice
-      : { languageCode: 'en-US', name: 'en-US-Standard-C' }; // A standard English voice
+      ? { languageCode: 'es-US', name: 'es-US-Chirp-HD-O' }
+      : { languageCode: 'en-US', name: 'en-US-Chirp-HD-O' }; // A standard English voice
 
     const ttsRequest = {
       input: { text: text },
