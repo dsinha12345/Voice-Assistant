@@ -155,7 +155,6 @@ const Chatbot: FC = () => {
 
   return (
     <div className={styles.chatbotContainer}>
-      <Image src="/logo.png" alt="Scott Law Firm Logo" width={150} height={150} />
       <div className={styles.messages}>
         {messages.map((msg, i) => {
           const isBilingual = msg.role === 'bot' && msg.text.includes('English:') && msg.text.includes('Spanish:');
@@ -163,7 +162,7 @@ const Chatbot: FC = () => {
           return (
             <div key={i} className={`${msg.role === "user" ? styles.user : styles.bot} flex flex-col items-start gap-2`}>
               <div className="flex items-center gap-2">
-                <span>{msg.role === "user" ? "🧑" : "🤖"}</span>
+                <span>{msg.role === "user" ? "🧑" : <Image src="/logo.png" alt="SLF Bot Logo" width={24} height={24} />}</span>
                 <span>
                   <b>{msg.role === "user" ? "You" : "SLF Bot"}:</b> {msg.text}
                 </span>
