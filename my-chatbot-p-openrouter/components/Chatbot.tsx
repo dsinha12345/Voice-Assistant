@@ -1,6 +1,12 @@
 "use client";
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, FC } from "react";
+import Image from "next/image";
 import styles from "../styles/chatbot.module.css";
+
+interface Message {
+  role: string;
+  text: string;
+}
 
 // Helper function to trigger a file download in the browser
 function triggerDownload(base64Audio: string, filename: string) {
@@ -23,9 +29,8 @@ function triggerDownload(base64Audio: string, filename: string) {
   document.body.removeChild(a);
 }
 
-
-export default function Chatbot() {
-  const [messages, setMessages] = useState<{ role: string; text: string }[]>([]);
+const Chatbot: FC = () => {
+  const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [isSpeaking, setIsSpeaking] = useState(false);
@@ -41,7 +46,7 @@ export default function Chatbot() {
     e.preventDefault();
     if (!input.trim()) return;
 
-    const userMessage = { role: "user", text: input };
+    const userMessage: Message = { role: "user", text: input };
     setMessages((msgs) => [...msgs, userMessage]);
     const currentInput = input;
     setInput("");
@@ -108,10 +113,6 @@ export default function Chatbot() {
     playInSequence(0);
   };
 
-  /**
-   * Calls the new merge endpoint and downloads the single combined file.
-   * @param fullText The full message from the bot.
-   */
   const handleMergeDownload = async (fullText: string) => {
     if (isDownloading) return;
     setIsDownloading(true);
@@ -138,20 +139,23 @@ export default function Chatbot() {
       setIsDownloading(false);
     }
   };
+
   useEffect(() => {
-  let timer: NodeJS.Timeout;
-  if (loading) {
-    timer = setTimeout(() => {
-      setMessages((msgs) => [
-        ...msgs,
-        { role: "bot", text: "Still thinking, please wait..." },
-      ]);
-    }, 10000); // after 10 seconds
-  }
-  return () => clearTimeout(timer);
-}, [loading]);
+    let timer: NodeJS.Timeout;
+    if (loading) {
+      timer = setTimeout(() => {
+        setMessages((msgs) => [
+          ...msgs,
+          { role: "bot", text: "Still thinking, please wait..." },
+        ]);
+      }, 10000); // after 10 seconds
+    }
+    return () => clearTimeout(timer);
+  }, [loading]);
+
   return (
     <div className={styles.chatbotContainer}>
+      <Image src="/logo.png" alt="Scott Law Firm Logo" width={150} height={150} />
       <div className={styles.messages}>
         {messages.map((msg, i) => {
           const isBilingual = msg.role === 'bot' && msg.text.includes('English:') && msg.text.includes('Spanish:');
@@ -211,4 +215,6 @@ export default function Chatbot() {
       </form>
     </div>
   );
-}
+};
+
+export default Chatbot;
