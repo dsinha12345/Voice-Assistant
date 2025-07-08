@@ -119,61 +119,61 @@ New Year's Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for New Year's Day on Wednesday, January 1st. We will reopen on Thursday, January 2nd, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de Año Nuevo el miércoles, 1 de enero. Abriremos el jueves, 2 de enero, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada cuando regresemos. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de Año Nuevo el miércoles, 1 de enero. Abriremos el jueves, 2 de enero, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada cuando regresemos. ¡Gracias!"
 
 Martin Luther King Jr. Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed in observance of Martin Luther King Jr. Day on Monday, January 20th. We will reopen on Tuesday, January 21st, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia del Día de Martin Luther King Jr. el lunes, 20 de enero. Abriremos el martes, 21 de enero, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia del Día de Martin Luther King Jr. el lunes, 20 de enero. Abriremos el martes, 21 de enero, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Presidents' Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for Presidents' Day on Monday, February 17th. We will reopen on Tuesday, February 18th, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de los Presidentes el lunes, 17 de febrero. Abriremos el martes, 18 de febrero, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de los Presidentes el lunes, 17 de febrero. Abriremos el martes, 18 de febrero, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Good Friday
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for Good Friday on Friday, April 18th. We will reopen on Monday, April 21st, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Viernes Santo el viernes, 18 de abril. Abriremos el lunes, 21 de abril, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Viernes Santo el viernes, 18 de abril. Abriremos el lunes, 21 de abril, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Memorial Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed in observance of Memorial Day on Monday, May 26th. We will reopen on Tuesday, May 27th, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia del Día de los Caídos el lunes, 26 de mayo. Abriremos el martes, 27 de mayo, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia del Día de los Caídos el lunes, 26 de mayo. Abriremos el martes, 27 de mayo, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Juneteenth
 
 English: "Thank you for calling Scott Law Firm. Our office is closed in observance of Juneteenth on Thursday, June 19th. We will reopen on Friday, June 20th, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia de Juneteenth el jueves, 19 de junio. Abriremos el viernes, 20 de junio, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada en observancia de Juneteenth el jueves, 19 de junio. Abriremos el viernes, 20 de junio, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Independence Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for Independence Day on Friday, July 4th. We will reopen on Monday, July 7th, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de la Independencia el viernes, 4 de julio. Abriremos el lunes, 7 de julio, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día de la Independencia el viernes, 4 de julio. Abriremos el lunes, 7 de julio, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Labor Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for Labor Day on Monday, September 1st. We will reopen on Tuesday, September 2nd, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día del Trabajo el lunes, 1 de septiembre. Abriremos el martes, 2 de septiembre, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el Día del Trabajo el lunes, 1 de septiembre. Abriremos el martes, 2 de septiembre, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Gracias!"
 
 Thanksgiving
 
 English: "Thank you for calling Scott Law Firm. Our office will be closed for the Thanksgiving holiday on Thursday, November 27th, and Friday, November 28th. We will reopen on Monday, December 1st, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Thank you!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina estará cerrada por el feriado de Acción de Gracias el jueves, 27 de noviembre y el viernes, 28 de noviembre. Abriremos el lunes, 1 de diciembre, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le regresaremos la llamada cuando estemos de regreso en la oficina. ¡Gracias!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina estará cerrada por el feriado de Acción de Gracias el jueves, 27 de noviembre y el viernes, 28 de noviembre. Abriremos el lunes, 1 de diciembre, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le regresaremos la llamada cuando estemos de regreso en la oficina. ¡Gracias!"
 
 Christmas Day
 
 English: "Thank you for calling Scott Law Firm. Our office is closed for the Christmas holiday on Thursday, December 25th. We will reopen on Friday, December 26th, at 8:30 a.m. Please leave us a voice message, and we will return your phone call upon our return. Merry Christmas!"
 
-Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el feriado de Navidad el jueves, 25 de diciembre. Abriremos el viernes, 26 de diciembre, a las 8:30 de la mañana. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Feliz Navidad!"
+Spanish: "Gracias por llamar a Scott Law Firm. Nuestra oficina está cerrada por el feriado de Navidad el jueves, 25 de diciembre. Abriremos el viernes, 26 de diciembre, a las 8:30 a.m.. Por favor déjenos un mensaje de voz y le devolveremos la llamada a nuestro regreso. ¡Feliz Navidad!"
 `
 
 export async function POST(req: NextRequest) {
